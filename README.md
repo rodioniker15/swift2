@@ -1,5 +1,15 @@
 # swift2
 
+The test task was fully completed.
+
+Functional:
+  - upon opening the application, posts are loaded by the link.
+  - there is sorting by: 
+       - more / less likes 
+       - earlier / later posted
+  - by clicking on "Show more" the entire text of the post is shown and the button "Show less" appears in its place - reduces the text to 2 lines
+  - clicking on a post opens the entire post in a new window.
+
 Тестовое задание выполнено полностью.
 
 Функционал: 
